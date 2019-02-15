@@ -1,0 +1,49 @@
+body {
+	display: flex;
+	height: 100vh;
+	width: 100vw;
+}
+
+.orange {
+	display: block;
+    height: 100%;
+	width: 100%;
+	background-color: orange;
+}
+
+.blue {
+	display: block;
+	height: 50%;
+	width: 100%;
+	background-color:blue;
+}
+
+.red {
+	display: flex;
+	height: 50%;
+	width: 100%;
+	background-color: red;
+}
+
+.yellow {
+	display: flex;
+	height: 100%;
+	width: 25%;
+	background-color: yellow;
+}
+
+.pink {
+	display: flex;
+	height: 100%;
+	width: 25%;
+	background-color: pink;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
